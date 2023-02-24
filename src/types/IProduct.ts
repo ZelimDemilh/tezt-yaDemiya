@@ -1,7 +1,7 @@
 export type size = {
-  id: number,
-  label: string,
-  number: number
+  id: number;
+  label: string;
+  number: number;
 };
 
 export type color = {
